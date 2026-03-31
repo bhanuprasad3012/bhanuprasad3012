@@ -18,14 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
-
----
-
 ## 📌 Featured Projects
 ### ♻️ E-Waste Management System
 - Full Stack Web App (MongoDB, Express, Node.js)
