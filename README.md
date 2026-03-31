@@ -35,7 +35,7 @@
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/bhanuprasad-miranam">LinkedIn</a>
 </p>
 
 ---
